@@ -1,4 +1,4 @@
-# School_system-OOP
+# School system OOP
 Training OOP project that gives each student and teacher an ID and store all their informations.  
 
 ### Teacher 👨‍🏫
